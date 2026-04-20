@@ -7,40 +7,40 @@
 </p>
 
 ### 👩‍💻 About Me
-* **Role:** Java Backend Developer focused on building scalable systems[cite: 3, 4].
-* **Education:** B.E. in Artificial Intelligence & Data Science (2024 Graduate)[cite: 6, 7].
-* **Location:** Based in Pune, Maharashtra[cite: 2].
-* **Interests:** Solving complex problems through Java, Spring Boot, and Machine Learning[cite: 16, 24].
+* **Role:** Java Backend Developer focused on building scalable systems.
+* **Education:** B.E. in Artificial Intelligence & Data Science (2024 Graduate).
+* **Location:** Based in Pune, Maharashtra.
+* **Interests:** Solving complex problems through Java, Spring Boot, and Machine Learning.
 
 ---
 
 ### 🛠️ Technical Skills
-* [cite_start]**Languages:** Java (Core & Advance), OOPs, Python, SQL[cite: 15, 16].
-* [cite_start]**Frameworks:** Spring Boot, Hibernate[cite: 17].
-* [cite_start]**Web Technologies:** RESTful APIs, JDBC, Servlets, JSP[cite: 16, 18].
-* [cite_start]**Databases:** MySQL, MongoDB[cite: 19].
-* [cite_start]**Tools:** Git, GitHub, IntelliJ IDEA, Eclipse[cite: 19].
+* **Languages:** Java (Core & Advance), OOPs, Python, SQL
+* **Frameworks:** Spring Boot, Hibernate.
+* **Web Technologies:** RESTful APIs, JDBC, Servlets, JSP.
+* **Databases:** MySQL, MongoDB.
+* **Tools:** Git, GitHub, IntelliJ IDEA, Eclipse.
 
 ---
 
 ### 📂 Top Projects
-* [cite_start]**Taxi Booking System:** Spring Boot 3.3.0 backend with RESTful APIs and MySQL[cite: 21, 22].
-* [cite_start]**Math On Voice:** Voice-controlled calculator for visually impaired users (Python/ML)[cite: 24, 28].
-* [cite_start]**Human Counting System:** Real-time crowd analytics using OpenCV and Computer Vision[cite: 29, 30].
-* [cite_start]**Hospital Management:** In-progress data management system using Spring Data JPA[cite: 21, 23].
+* **Taxi Booking System:** Spring Boot 3.3.0 backend with RESTful APIs and MySQL.
+* **Math On Voice:** Voice-controlled calculator for visually impaired users (Python/ML).
+* **Human Counting System:** Real-time crowd analytics using OpenCV and Computer Vision.
+* **Hospital Management:** In-progress data management system using Spring Data JPA.
 
 ---
 
 ### 💼 Professional Experience
-* [cite_start]**Java Developer Intern:** Upskill Campus (Worked on Spring Boot & Hibernate)[cite: 34, 36].
-* [cite_start]**Backend Intern:** Techvant Software Technologies (Laravel, CRUD, and APIs)[cite: 38, 39].
+* **Java Developer Intern:** Upskill Campus (Worked on Spring Boot & Hibernate).
+* **Backend Intern:** Techvant Software Technologies (Laravel, CRUD, and APIs).
 
 ---
 
 ### 🏆 Achievements
-* [cite_start]**Top 10 Rank:** CodeSprint 2023 Hackathon[cite: 52].
-* [cite_start]**Published Researcher:** Voice-Based Calculator in IRJMETS Journal[cite: 48].
-* [cite_start]**Certified:** Java Full Stack Development from Kiran Academy, Pune[cite: 42].
+* **Top 10 Rank:** CodeSprint 2023 Hackathon.
+* **Published Researcher:** Voice-Based Calculator in IRJMETS Journal.
+* **Certified:** Java Full Stack Development from Kiran Academy, Pune.
 
 ---
 
@@ -50,5 +50,5 @@
 ---
 
 ### 📫 Let's Connect
-* [cite_start]**LinkedIn:** [Rutuja Shirole](https://www.linkedin.com/in/rutuja-shirole) [cite: 2]
-* [cite_start]**Email:** shirole.rutuja17@gmail.com [cite: 2]
+* **LinkedIn:** [Rutuja Shirole](https://www.linkedin.com/in/rutuja-shirole)
+* **Email:** shirole.rutuja17@gmail.com 
