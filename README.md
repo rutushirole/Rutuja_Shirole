@@ -45,7 +45,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Rutuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutuja-Shirole&show_icons=true&theme=radical&rank_icon=github)
+![Rutuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutuja_Shirole&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
