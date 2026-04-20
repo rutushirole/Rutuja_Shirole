@@ -7,10 +7,10 @@
 </p>
 
 ### 👩‍💻 About Me
-* [cite_start]**Role:** Java Backend Developer focused on building scalable systems[cite: 3, 4].
-* [cite_start]**Education:** B.E. in Artificial Intelligence & Data Science (2024 Graduate)[cite: 6, 7].
-* [cite_start]**Location:** Based in Pune, Maharashtra[cite: 2].
-* [cite_start]**Interests:** Solving complex problems through Java, Spring Boot, and Machine Learning[cite: 16, 24].
+* **Role:** Java Backend Developer focused on building scalable systems[cite: 3, 4].
+* **Education:** B.E. in Artificial Intelligence & Data Science (2024 Graduate)[cite: 6, 7].
+* **Location:** Based in Pune, Maharashtra[cite: 2].
+* **Interests:** Solving complex problems through Java, Spring Boot, and Machine Learning[cite: 16, 24].
 
 ---
 
