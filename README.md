@@ -44,8 +44,9 @@
 
 ---
 
-### 📈 GitHub Stats
-![Rutuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutuja_Shirole&show_icons=true&theme=radical&rank_icon=github)
+### 📊 GitHub Stats
+![Rutuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutushirole&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutushirole&layout=compact&theme=radical)
 
 ---
 
